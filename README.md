@@ -24,3 +24,8 @@ This is a simple calculator application written in Python. It provides basic ari
 
    ```sh
    python Calculator APP.py
+
+
+## Screenshot
+
+![Calculator Screenshot](C:\Users\shasham\Documents\Calculator APP)
